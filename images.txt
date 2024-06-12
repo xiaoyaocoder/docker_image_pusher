@@ -3,5 +3,6 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 nginx
-ingress-nginx/controller
-ingress-nginx/kube-webhook-certgen
+controller
+kube-webhook-certgen
+nfs-subdir-external-provisioner:v4.0.2
