@@ -1,1 +1,1 @@
-consul
+consul:latest
