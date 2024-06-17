@@ -1,1 +1,2 @@
-skywalking-ui:8.9.0
+/apache/skywalking-ui
+skywalking.docker.scarf.sh/apache/skywalking-ui
