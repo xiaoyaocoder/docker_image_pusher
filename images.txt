@@ -1,3 +1,1 @@
-
-skywalking.docker.scarf.sh/apache/skywalking-ui:8.9.0
-busybox:1.3.0
+skywalking.docker.scarf.sh/apache/skywalking-oap-server
