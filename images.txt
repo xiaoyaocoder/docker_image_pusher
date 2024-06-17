@@ -1,2 +1,2 @@
-/apache/skywalking-ui
+
 skywalking.docker.scarf.sh/apache/skywalking-ui
