@@ -1,1 +1,5 @@
-consul:latest
+docker.elastic.co/elasticsearch/elasticsearch:6.8.6
+skywalking.docker.scarf.sh/apache/skywalking-satellite:8.9.0
+skywalking.docker.scarf.sh/apache/skywalking-ui
+skywalking.docker.scarf.sh/apache/skywalking-oap-server
+busybox
