@@ -1,1 +1,2 @@
 skywalking.docker.scarf.sh/apache/skywalking-satellite
+ prom/node-exporter:latest
