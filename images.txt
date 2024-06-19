@@ -1,1 +1,1 @@
-openjdk:24-oraclelinux9
+nfs-subdir-external-provisioner
