@@ -1,2 +1,2 @@
- registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:4.0.3
+ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.3
 chronolaw/nfs-subdir-external-provisioner
