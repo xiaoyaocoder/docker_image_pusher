@@ -1,1 +1,1 @@
-agent
+consul:1.15.3
