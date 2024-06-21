@@ -1,1 +1,1 @@
-feiyu563/prometheus-alert:v4.8.2
+registry.k8s.com/kube-controller-manager:v1.26.2
