@@ -1,1 +1,1 @@
-docker.elastic.co/kibana/kibana:7.17.3
+quay.io/fluentd_elasticsearch/fluentd:v3.4.0
