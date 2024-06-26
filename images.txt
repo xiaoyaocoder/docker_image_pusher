@@ -1,2 +1,1 @@
-bitnami/kafka-exporter:1.4.2-debian-10-r243
-bitnami/jmx-exporter:0.16.1-debian-10-r306
+bundler
