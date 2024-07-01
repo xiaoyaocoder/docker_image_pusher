@@ -1,1 +1,1 @@
-grafana/grafana
+grafana/promtail:latest 
