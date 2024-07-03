@@ -1,1 +1,1 @@
-ghcr.io/prometheus-operator/prometheus-config-reloader:v0.67.0
+prom/prometheus:v2.48.0
