@@ -1,1 +1,1 @@
-docker.io/grafana/grafana:10.1.5
+openzipkin/zipkin-slim:2.23.14
