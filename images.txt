@@ -1,1 +1,1 @@
-openzipkin/zipkin-slim:2.23.14
+quay.io/kiali/kiali
