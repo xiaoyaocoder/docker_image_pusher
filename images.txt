@@ -1,1 +1,1 @@
-tomcat
+gcr.io/tetratelabs/customers:1.0.0
