@@ -1,1 +1,1 @@
-gcr.io/tetratelabs/web-frontend:1.0.0
+germannewsmaker/myspeed:latest
